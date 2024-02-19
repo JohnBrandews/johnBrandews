@@ -9,9 +9,7 @@ Skills: PHP/JAVA / JS / HTML / CSS/GIT/GIT HUB/C
 - 🔭 I’m currently working on my Portfolio.
 
 
-### Hi there 👋,  Brandews
-#### I am a web and mobile developer
-I am a passionate and skilled web developer with a deep understanding of modern web technologies and best practices.
+
 
 Skills: PHP/JAVA / JS / HTML / CSS/GIT/GIT HUB/C
 
