@@ -11,7 +11,7 @@ Skills: PHP/JAVA / JS / HTML / CSS/GIT/GIT HUB/C
 
 
 
-Skills: PHP/JAVA / JS / HTML / CSS/GIT/GIT HUB/C
+
 
 - 🔭 I’m currently working on this page. 
 
